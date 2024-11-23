@@ -1,0 +1,1065 @@
+
+<div class="feedback-form">
+   <p style="font-size: 18px;line-height: 22px;"><b style=" color: #bf000c; ">Thank you for being a valuable Guest of Namaste India Trip as your travel service provider.</b></p>
+   <p style=" font-size: 12px; ">Please have a little bit time to tell us how you enjoyed your holiday and give us suggestions so that we can provide improved and best services continually to you.<br>We assure you enjoyed your holidays trip and also will further opportunity to serve you.</p>
+   <form action="thank-you.php" method="post" class="contact__form" >
+      <div class="formItemB">
+		  <div class="formItem">
+			 <label for="fcbox">Friendliness / Courtesy</label>
+			 <p><input id="fcbox" type="radio" name="friendliness_courtesy_rating" value="Excellent" checked="">Excellent&nbsp;
+				<input id="fcbox" type="radio" name="friendliness_courtesy_rating" value="Good">Good&nbsp;
+				<input id="fcbox" type="radio" name="friendliness_courtesy_rating" value="Average">Average&nbsp;
+				<input id="fcbox" type="radio" name="friendliness_courtesy_rating" value="Poor">Poor&nbsp;
+			 </p>
+			 <textarea id="fcbox" type="text" placeholder="Write about your suggestion" name="friendliness_courtesy_comment"></textarea>
+		  </div>
+		  <div class="formItem">
+         <label for="htlBox">Hotels</label>
+         <p>
+            <input id="htlBox" type="radio" name="hotels_rating" value="Excellent" checked="">Excellent&nbsp;
+            <input id="htlBox" type="radio" name="hotels_rating" value="Good">Good&nbsp; 
+            <input id="htlBox" type="radio" name="hotels_rating" value="Average">Average&nbsp;
+            <input id="htlBox" type="radio" name="hotels_rating" value="Poor">Poor&nbsp; 
+         </p>
+         <textarea id="htlBox" type="text" placeholder="Write about your suggestion" name="hotels_comment"></textarea>
+      </div>
+		  <div class="formItem">
+         <label for="mlsBox">Meals</label>
+         <p>
+            <input id="mlsBox" type="radio" name="meals_rating" value="Excellent" checked="">Excellent&nbsp;
+            <input id="mlsBox" type="radio" name="meals_rating" value="Good">Good&nbsp; 
+            <input id="mlsBox" type="radio" name="meals_rating" value="Average">Average&nbsp;
+            <input id="mlsBox" type="radio" name="meals_rating" value="Poor">Poor&nbsp; 
+         </p>
+         <textarea id="mlsBox" type="text" placeholder="Write about your suggestion" name="meals_comment"></textarea>
+      </div>
+	   <div class="formItem">
+         <label for="chBox">Coach / Vehicle</label>
+         <p>
+            <input id="chBox" type="radio" name="coach_rating" value="Excellent" checked="">Excellent&nbsp;
+            <input id="chBox" type="radio" name="coach_rating" value="Good">Good&nbsp; 
+            <input id="chBox" type="radio" name="coach_rating" value="Average">Average&nbsp;
+            <input id="chBox" type="radio" name="coach_rating" value="Poor">Poor&nbsp; 
+         </p>
+         <textarea id="chBox" type="text" placeholder="Write about your suggestion" name="coach_comment"></textarea>
+      </div>
+	  <div class="formItem">
+         <label for="drBox">Driver</label>
+         <p>
+            <input id="drBox" type="radio" name="driver_rating" value="Excellent" checked="">Excellent&nbsp;
+            <input id="drBox" type="radio" name="driver_rating" value="Good">Good&nbsp; 
+            <input id="drBox" type="radio" name="driver_rating" value="Average">Average&nbsp;
+            <input id="drBox" type="radio" name="driver_rating" value="Poor">Poor&nbsp;
+         </p>
+         <textarea id="drBox" type="text" placeholder="Write about your suggestion" name="driver_rating_comment"></textarea>
+      </div>
+      <div class="formItem">
+         <label for="tmBox">Tour Manager (if applicable)</label>
+         <p>
+            <input id="tmBox" type="radio" name="tour_manager_rating" value="Excellent" checked="">Excellent&nbsp;
+            <input id="tmBox" type="radio" name="tour_manager_rating" value="Good">Good&nbsp;
+            <input id="tmBox" type="radio" name="tour_manager_rating" value="Average">Average&nbsp;
+            <input id="tmBox" type="radio" name="tour_manager_rating" value="Poor">Poor&nbsp;
+         </p>
+         <textarea id="tmBox" type="text" placeholder="Write about your suggestion" name="tour_manager_comment"></textarea>
+      </div>
+      </div>
+
+      <h2>Overall Rating</h2>
+	  
+	  <div class="formItemB">
+	  <div class="formItem">
+         <label for="orsBox">Overall rating of tour / services</label>
+         <p>
+            <input id="orsBox" type="radio" name="overall_rating" value="Excellent" checked="">Excellent&nbsp;
+            <input id="orsBox" type="radio" name="overall_rating" value="Good">Good&nbsp;
+            <input id="orsBox" type="radio" name="overall_rating" value="Average">Average&nbsp;
+            <input id="orsBox" type="radio" name="overall_rating" value="Poor">Poor&nbsp; 
+         </p>
+         <textarea id="orsBox" type="text" placeholder="Write about your suggestion" name="overall_comment"></textarea>
+      </div>
+      
+      <div class="formItem" style=" width: 64%; ">
+         <label for="yvasBox">Your valued suggestions</label>
+         <textarea id="yvasBox" rows="3" placeholder="Write about your suggestion" name="yvasBox"></textarea>
+      </div>
+     
+      </div>
+	   <div class="formItemBs">
+      <div class="rformItem">
+         <div class="formItem">
+            <p>Any Reference (family, relative) those who are planning to travel refer us and earn 
+			<i class="fa fa-inr" aria-hidden="true"></i> 2000/- off for your next travel, your referral will get 
+			<i class="fa fa-inr" aria-hidden="true"></i> 1000/- off on first booking with us for more details <a href="https://www.namasteindiatrip.com/refer-friends-win-rewards" target="_blank" title="Refer Friends win rewards">Click Here</a>
+            </p>
+         </div>
+         <div class="tFormItem">
+            <label for="o-name">Name</label>
+            <input type="text" class="form-control" id="o-name" name="o-name" placeholder="Enter Your  Name" required="">
+         </div>
+         <div class="tFormItem">
+            <label for="o-email">Email</label>
+            <input type="text" class="form-control" id="o-email" name="o-email" placeholder="Enter Your  Email" required="">
+         </div>
+         <div class="tFormItem">
+            <label for="o-phone">Phone</label>
+            <input type="text" class="form-control" id="o-phone" name="o-phone" placeholder="Enter Your Phone" required="">
+         </div>
+      </div>
+      </div>
+	   <h2>Personal Information</h2>
+	  <div class="formItemBs">
+     
+      <div class="tFormItem">
+         <label for="firstname">Tour Name</label>
+         <input type="text" class="form-control" id="firstname" name="tourname" placeholder="Enter Your Tour Name" required="">
+      </div>
+      <div class="tFormItem">
+         <label for="email">Tour Invoice</label>
+         <input type="text" class="form-control" id="email" name="tourinvoice" placeholder="Enter Your  Tour Invoice" required="">
+      </div>
+      <div class="tFormItem">
+         <label for="o-phone">Phone</label>
+         <input type="text" class="form-control" id="o-phone" name="tourphone" placeholder="Enter Your Phone" required="">
+      </div>
+      </div>
+         <div class="g-recaptcha" data-sitekey="6Le7gwAhAAAAAMGCPxIhSWnLFDmq1gQ9r-NyWyD7" style=" transform: scale(0.77); -webkit-transform: scale(0.77); transform-origin: 0 0; -webkit-transform-origin: 0 0; transform-origin: center top; -webkit-transform-origin: center top; height: 65px; "></div>
+                            <div class="contact__msg" style="display: none">
+                              <p style=" margin-bottom: 0; text-align: center; background: transparent; border: none; line-height: 20px; padding: 0; font-size: 16px; ">Your message was sent successfully.</p>
+                            </div>
+      <div class="btnTop">
+	  <button class="subBtn"  type="submit" name="submit">Feedback Send</button>
+         
+      </div>
+   </form>
+</div>
+<style>
+button.subBtn {
+    padding: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    line-height: 22px;
+    border-radius: 3px;
+    color: #fff !important;
+    box-shadow: 0px 0px 12px 0px rgb(113 103 255 / 35%);
+}
+
+.btnTop {
+    text-align: center;
+}
+.formItemBs .formItem,.formItemBs .rformItem,.formItemBs .tFormItem {
+    margin: 0 10px;
+}
+   .formItem a {
+   color: green;
+   font-weight: bold;
+   }
+   .btnTop input {
+   background: transparent;
+   border: none;
+   padding: 0;
+   margin: 0;
+   height: 20px;
+   line-height: 20px;
+   }
+  .feedback-form h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5px 0;
+    line-height: 35px;
+    text-align: center;
+    color: #ff7f00;
+}
+.feedback-form h2 {
+    font-size: 18px;
+    padding-bottom: 10px;
+    position: relative;
+    text-transform: capitalize;
+    color: #bf000c;
+    font-family: inherit;
+    font-weight: bold;
+    margin: 10px;
+    line-height: 24px;
+}
+.rformItem {
+    background: #fff;
+}
+.formItemB .formItem {
+    width: 31%;
+    display: inline-block;
+    margin: 0 10px;
+}
+.feedback-form h2:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 5px;
+  width: 55px;
+  background-color: #061b30;
+}
+.feedback-form h2:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 2px;
+  height: 1px;
+  width: 95%;
+  max-width: 255px;
+  background-color: #061b30;
+}
+   .feedback-form>p {
+   text-align: center;
+   padding-bottom: 10px;
+   }
+   .feedback-form {
+   padding: 10px;
+   moz-box-shadow: 0 0 5px #888;
+   -webkit-box-shadow: 0 0 5px #888;
+   box-shadow: 0 0 5px #888;
+   width: 100%;
+   margin: 10px auto;
+   background: #e7f4ff;
+   }
+
+.tFormItem input {
+    width: 100%!important;
+}
+   .tFormItem {
+   width: 31%;
+   display: inline-block;
+   margin: 5px 0;
+   }
+   .tFormItem label,.tFormItem input {
+   display: block;
+   }
+   .feedback-form label {
+   font-size: 14px;
+   font-weight: bold;
+   letter-spacing: 1px;
+   }
+   
+   .feedback-form p b {
+   color: green;
+   }
+   .tFormItem input {
+   width: 95%;
+   border-radius: 0px !important;
+   border-color: gray !important;
+   font-size: 14px !important;
+   color: #000 !important;
+   }
+   .feedback-form h3 {
+   margin-top: 10px;
+   color: #ff7f00;
+   }
+   .feedback-form textarea {
+    width: 100%;
+    border-radius: 0px !important;
+    border-color: gray !important;
+    max-height: 50px;
+    padding: 10px;
+}
+.tFormItem input {
+    height: 30px !important;
+}
+.btnTop a span input {
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+  input[type=radio] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: inline-block;
+    position: relative;
+    background-color: #fff;
+    color: #666;
+    top: 5px;
+    height: 20px;
+    width: 20px;
+    border: 0;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-right: 7px;
+    outline: none;
+}
+   input[type=radio]:checked::before {
+    position: absolute;
+    font: 10px/1 'Open Sans', sans-serif;
+    left: 8px;
+    top: 4px;
+    content: '\02143';
+    transform: rotate(40deg);
+}
+   input[type=radio]:hover
+   {
+   background-color: #24c358;
+   }
+   input[type=radio]:checked
+   {
+   background-color: #24c358;
+   color:#fff;
+   }
+   .btnCl {
+   background-color: #24c358;
+   }
+   .btnCl .round {
+   background-color: #ff7f00;
+   }
+   .btnTop a {
+   text-decoration: none;
+   -moz-border-radius: 30px;
+   -webkit-border-radius: 30px;
+   border-radius: 30px;
+   padding: 12px 53px 12px 23px;
+   color: #fff;
+   text-transform: uppercase;
+   font-family: sans-serif;
+   font-weight: bold;
+   position: relative;
+   -moz-transition: all 0.3s;
+   -o-transition: all 0.3s;
+   -webkit-transition: all 0.3s;
+   transition: all 0.3s;
+   display: inline-block;
+   }
+   .btnTop a span {
+   position: relative;
+   z-index: 3;
+   }
+   .btnTop a .round {
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+   width: 38px;
+   height: 38px;
+   position: absolute;
+   right: 3px;
+   top: 3px;
+   -moz-transition: all 0.3s ease-out;
+   -o-transition: all 0.3s ease-out;
+   -webkit-transition: all 0.3s ease-out;
+   transition: all 0.3s ease-out;
+   z-index: 2;
+   }
+   .btnTop a .round i {
+   position: absolute;
+   top: 50%;
+   margin-top: -6px;
+   left: 50%;
+   margin-left: -4px;
+   -moz-transition: all 0.3s;
+   -o-transition: all 0.3s;
+   -webkit-transition: all 0.3s;
+   transition: all 0.3s;
+   }
+   .btnTop a:hover {
+   padding-left: 48px;
+   padding-right: 28px;
+   color: #fff;
+   }
+   .btnTop a:hover .round {
+   width: calc(100% - 6px);
+   -moz-border-radius: 30px;
+   -webkit-border-radius: 30px;
+   border-radius: 30px;
+   }
+   .btnTop a:hover .round i {
+   left: 12%;
+   }
+   .formItem {
+   margin: 10px 0;
+   }
+   .btnTop:last-child {
+   margin-top: 20px;
+   }
+   .rformItem {
+   border: 1px solid;
+   padding: 10px;
+   margin-bottom: 10px;
+   }
+   .page-id-13525 .entry-title {
+    font-variant: small-caps;
+    color: #000 !important;
+    font-size: 44px;
+}
+.headline_color {
+    opacity: 0.7;
+}
+.middle_content {
+    padding: 0;
+}
+.btnTop div {
+    text-align: center !important;
+}
+.formItemBs {
+    width: 98.5%;
+}
+   @media only screen and (max-width: 520px) {
+	   .formItemBs {
+    width: 100%;
+}
+   .feedback-form {
+   width: 100%;
+   }
+   .content_wrap.fullwidth {
+    width: 100%;
+    padding: 10px;
+}
+.content_wrap.fullwidth {
+    width: 100%;
+    padding: 10px;
+}
+
+.feedback-form {
+    margin-top: 0;
+    padding: 5px;
+}
+
+.feedback-form h1 {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.feedback-form p {
+    font-size: 12px !important;
+    line-height: 18px !important;
+	text-align: left;
+}
+.feedback-form textarea {
+    max-height: 35px;
+    padding: 5px;
+}
+.feedback-form h2 {
+    margin: 0;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 5px;
+}
+
+.formItemB .formItem {
+    width: 100% !important;
+    margin: 5px 0;
+}
+
+input[type=radio]:checked {
+}
+
+.formItemBs .formItem, .formItemBs .rformItem, .formItemBs .tFormItem {
+    margin: 0 !important;
+}
+
+input[type=radio] {
+    margin-right: 2px !important;
+}
+
+.addres-footer ul li {
+    font-size: 12px !important;
+    line-height: 18px !important;
+}
+
+.addres-footer ul {
+    padding-top: 5px !important;
+}
+
+.btnTop {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.btnTop a {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+.btnTop a .round {
+    width: 25px;
+    height: 25px;
+    top: 10px;
+    right: 10px;
+    font-size: 12px;
+}
+   .tFormItem {
+   width: 100%;
+   }
+   .formItem>p {
+   line-height: 40px;
+   }
+   }
+   .g-recaptcha,.g-recaptcha div {
+    text-align: center;
+    margin: 10px auto;
+    width: 100%;
+}
+</style>
+   <script src='https://www.google.com/recaptcha/api.js'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+ <script type="text/javascript">
+      
+      'use strict';
+      var form = $('.contact__form'),
+        message = $('.contact__msg'),
+        form_data;
+      // Success function
+      function done_func(response) {
+        message.fadeIn()
+        message.html(response);
+        setTimeout(function() {
+          message.fadeOut();
+        }, 5000);
+        grecaptcha.reset();
+        //form.find('input:not([type="submit"]), textarea').val('');
+      }
+      // fail function
+      function fail_func(data) {
+        message.fadeIn()
+        message.html(data.responseText);
+        setTimeout(function() {
+          message.fadeOut(5000);
+        }, 5000);
+      }
+      form.submit(function(e) {
+        e.preventDefault();
+        form_data = $(this).serialize();
+        $.ajax({
+          type: 'POST',
+          url: form.attr('action'),
+          data: form_data
+        }).done(done_func).fail(fail_func);
+      });
+    </script>
+<div class="feedback-form">
+   <p style="font-size: 18px;line-height: 22px;"><b style=" color: #bf000c; ">Thank you for being a valuable Guest of Namaste India Trip as your travel service provider.</b></p>
+   <p style=" font-size: 12px; ">Please have a little bit time to tell us how you enjoyed your holiday and give us suggestions so that we can provide improved and best services continually to you.<br>We assure you enjoyed your holidays trip and also will further opportunity to serve you.</p>
+   <form action="thank-you.php" method="post" class="contact__form" >
+      <div class="formItemB">
+		  <div class="formItem">
+			 <label for="fcbox">Friendliness / Courtesy</label>
+			 <p><input id="fcbox" type="radio" name="friendliness_courtesy_rating" value="Excellent" checked="">Excellent&nbsp;
+				<input id="fcbox" type="radio" name="friendliness_courtesy_rating" value="Good">Good&nbsp;
+				<input id="fcbox" type="radio" name="friendliness_courtesy_rating" value="Average">Average&nbsp;
+				<input id="fcbox" type="radio" name="friendliness_courtesy_rating" value="Poor">Poor&nbsp;
+			 </p>
+			 <textarea id="fcbox" type="text" placeholder="Write about your suggestion" name="friendliness_courtesy_comment"></textarea>
+		  </div>
+		  <div class="formItem">
+         <label for="htlBox">Hotels</label>
+         <p>
+            <input id="htlBox" type="radio" name="hotels_rating" value="Excellent" checked="">Excellent&nbsp;
+            <input id="htlBox" type="radio" name="hotels_rating" value="Good">Good&nbsp; 
+            <input id="htlBox" type="radio" name="hotels_rating" value="Average">Average&nbsp;
+            <input id="htlBox" type="radio" name="hotels_rating" value="Poor">Poor&nbsp; 
+         </p>
+         <textarea id="htlBox" type="text" placeholder="Write about your suggestion" name="hotels_comment"></textarea>
+      </div>
+		  <div class="formItem">
+         <label for="mlsBox">Meals</label>
+         <p>
+            <input id="mlsBox" type="radio" name="meals_rating" value="Excellent" checked="">Excellent&nbsp;
+            <input id="mlsBox" type="radio" name="meals_rating" value="Good">Good&nbsp; 
+            <input id="mlsBox" type="radio" name="meals_rating" value="Average">Average&nbsp;
+            <input id="mlsBox" type="radio" name="meals_rating" value="Poor">Poor&nbsp; 
+         </p>
+         <textarea id="mlsBox" type="text" placeholder="Write about your suggestion" name="meals_comment"></textarea>
+      </div>
+	   <div class="formItem">
+         <label for="chBox">Coach / Vehicle</label>
+         <p>
+            <input id="chBox" type="radio" name="coach_rating" value="Excellent" checked="">Excellent&nbsp;
+            <input id="chBox" type="radio" name="coach_rating" value="Good">Good&nbsp; 
+            <input id="chBox" type="radio" name="coach_rating" value="Average">Average&nbsp;
+            <input id="chBox" type="radio" name="coach_rating" value="Poor">Poor&nbsp; 
+         </p>
+         <textarea id="chBox" type="text" placeholder="Write about your suggestion" name="coach_comment"></textarea>
+      </div>
+	  <div class="formItem">
+         <label for="drBox">Driver</label>
+         <p>
+            <input id="drBox" type="radio" name="driver_rating" value="Excellent" checked="">Excellent&nbsp;
+            <input id="drBox" type="radio" name="driver_rating" value="Good">Good&nbsp; 
+            <input id="drBox" type="radio" name="driver_rating" value="Average">Average&nbsp;
+            <input id="drBox" type="radio" name="driver_rating" value="Poor">Poor&nbsp;
+         </p>
+         <textarea id="drBox" type="text" placeholder="Write about your suggestion" name="driver_rating_comment"></textarea>
+      </div>
+      <div class="formItem">
+         <label for="tmBox">Tour Manager (if applicable)</label>
+         <p>
+            <input id="tmBox" type="radio" name="tour_manager_rating" value="Excellent" checked="">Excellent&nbsp;
+            <input id="tmBox" type="radio" name="tour_manager_rating" value="Good">Good&nbsp;
+            <input id="tmBox" type="radio" name="tour_manager_rating" value="Average">Average&nbsp;
+            <input id="tmBox" type="radio" name="tour_manager_rating" value="Poor">Poor&nbsp;
+         </p>
+         <textarea id="tmBox" type="text" placeholder="Write about your suggestion" name="tour_manager_comment"></textarea>
+      </div>
+      </div>
+
+      <h2>Overall Rating</h2>
+	  
+	  <div class="formItemB">
+	  <div class="formItem">
+         <label for="orsBox">Overall rating of tour / services</label>
+         <p>
+            <input id="orsBox" type="radio" name="overall_rating" value="Excellent" checked="">Excellent&nbsp;
+            <input id="orsBox" type="radio" name="overall_rating" value="Good">Good&nbsp;
+            <input id="orsBox" type="radio" name="overall_rating" value="Average">Average&nbsp;
+            <input id="orsBox" type="radio" name="overall_rating" value="Poor">Poor&nbsp; 
+         </p>
+         <textarea id="orsBox" type="text" placeholder="Write about your suggestion" name="overall_comment"></textarea>
+      </div>
+      
+      <div class="formItem" style=" width: 64%; ">
+         <label for="yvasBox">Your valued suggestions</label>
+         <textarea id="yvasBox" rows="3" placeholder="Write about your suggestion" name="yvasBox"></textarea>
+      </div>
+     
+      </div>
+	   <div class="formItemBs">
+      <div class="rformItem">
+         <div class="formItem">
+            <p>Any Reference (family, relative) those who are planning to travel refer us and earn 
+			<i class="fa fa-inr" aria-hidden="true"></i> 2000/- off for your next travel, your referral will get 
+			<i class="fa fa-inr" aria-hidden="true"></i> 1000/- off on first booking with us for more details <a href="https://www.namasteindiatrip.com/refer-friends-win-rewards" target="_blank" title="Refer Friends win rewards">Click Here</a>
+            </p>
+         </div>
+         <div class="tFormItem">
+            <label for="o-name">Name</label>
+            <input type="text" class="form-control" id="o-name" name="o-name" placeholder="Enter Your  Name" required="">
+         </div>
+         <div class="tFormItem">
+            <label for="o-email">Email</label>
+            <input type="text" class="form-control" id="o-email" name="o-email" placeholder="Enter Your  Email" required="">
+         </div>
+         <div class="tFormItem">
+            <label for="o-phone">Phone</label>
+            <input type="text" class="form-control" id="o-phone" name="o-phone" placeholder="Enter Your Phone" required="">
+         </div>
+      </div>
+      </div>
+	   <h2>Personal Information</h2>
+	  <div class="formItemBs">
+     
+      <div class="tFormItem">
+         <label for="firstname">Tour Name</label>
+         <input type="text" class="form-control" id="firstname" name="tourname" placeholder="Enter Your Tour Name" required="">
+      </div>
+      <div class="tFormItem">
+         <label for="email">Tour Invoice</label>
+         <input type="text" class="form-control" id="email" name="tourinvoice" placeholder="Enter Your  Tour Invoice" required="">
+      </div>
+      <div class="tFormItem">
+         <label for="o-phone">Phone</label>
+         <input type="text" class="form-control" id="o-phone" name="tourphone" placeholder="Enter Your Phone" required="">
+      </div>
+      </div>
+         <div class="g-recaptcha" data-sitekey="6Le7gwAhAAAAAMGCPxIhSWnLFDmq1gQ9r-NyWyD7" style=" transform: scale(0.77); -webkit-transform: scale(0.77); transform-origin: 0 0; -webkit-transform-origin: 0 0; transform-origin: center top; -webkit-transform-origin: center top; height: 65px; "></div>
+                            <div class="contact__msg" style="display: none">
+                              <p style=" margin-bottom: 0; text-align: center; background: transparent; border: none; line-height: 20px; padding: 0; font-size: 16px; ">Your message was sent successfully.</p>
+                            </div>
+      <div class="btnTop">
+	  <button class="subBtn"  type="submit" name="submit">Feedback Send</button>
+         
+      </div>
+   </form>
+</div>
+<style>
+button.subBtn {
+    padding: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    line-height: 22px;
+    border-radius: 3px;
+    color: #fff !important;
+    box-shadow: 0px 0px 12px 0px rgb(113 103 255 / 35%);
+}
+
+.btnTop {
+    text-align: center;
+}
+.formItemBs .formItem,.formItemBs .rformItem,.formItemBs .tFormItem {
+    margin: 0 10px;
+}
+   .formItem a {
+   color: green;
+   font-weight: bold;
+   }
+   .btnTop input {
+   background: transparent;
+   border: none;
+   padding: 0;
+   margin: 0;
+   height: 20px;
+   line-height: 20px;
+   }
+  .feedback-form h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5px 0;
+    line-height: 35px;
+    text-align: center;
+    color: #ff7f00;
+}
+.feedback-form h2 {
+    font-size: 18px;
+    padding-bottom: 10px;
+    position: relative;
+    text-transform: capitalize;
+    color: #bf000c;
+    font-family: inherit;
+    font-weight: bold;
+    margin: 10px;
+    line-height: 24px;
+}
+.rformItem {
+    background: #fff;
+}
+.formItemB .formItem {
+    width: 31%;
+    display: inline-block;
+    margin: 0 10px;
+}
+.feedback-form h2:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 5px;
+  width: 55px;
+  background-color: #061b30;
+}
+.feedback-form h2:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 2px;
+  height: 1px;
+  width: 95%;
+  max-width: 255px;
+  background-color: #061b30;
+}
+   .feedback-form>p {
+   text-align: center;
+   padding-bottom: 10px;
+   }
+   .feedback-form {
+   padding: 10px;
+   moz-box-shadow: 0 0 5px #888;
+   -webkit-box-shadow: 0 0 5px #888;
+   box-shadow: 0 0 5px #888;
+   width: 100%;
+   margin: 10px auto;
+   background: #e7f4ff;
+   }
+
+.tFormItem input {
+    width: 100%!important;
+}
+   .tFormItem {
+   width: 31%;
+   display: inline-block;
+   margin: 5px 0;
+   }
+   .tFormItem label,.tFormItem input {
+   display: block;
+   }
+   .feedback-form label {
+   font-size: 14px;
+   font-weight: bold;
+   letter-spacing: 1px;
+   }
+   
+   .feedback-form p b {
+   color: green;
+   }
+   .tFormItem input {
+   width: 95%;
+   border-radius: 0px !important;
+   border-color: gray !important;
+   font-size: 14px !important;
+   color: #000 !important;
+   }
+   .feedback-form h3 {
+   margin-top: 10px;
+   color: #ff7f00;
+   }
+   .feedback-form textarea {
+    width: 100%;
+    border-radius: 0px !important;
+    border-color: gray !important;
+    max-height: 50px;
+    padding: 10px;
+}
+.tFormItem input {
+    height: 30px !important;
+}
+.btnTop a span input {
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+  input[type=radio] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: inline-block;
+    position: relative;
+    background-color: #fff;
+    color: #666;
+    top: 5px;
+    height: 20px;
+    width: 20px;
+    border: 0;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-right: 7px;
+    outline: none;
+}
+   input[type=radio]:checked::before {
+    position: absolute;
+    font: 10px/1 'Open Sans', sans-serif;
+    left: 8px;
+    top: 4px;
+    content: '\02143';
+    transform: rotate(40deg);
+}
+   input[type=radio]:hover
+   {
+   background-color: #24c358;
+   }
+   input[type=radio]:checked
+   {
+   background-color: #24c358;
+   color:#fff;
+   }
+   .btnCl {
+   background-color: #24c358;
+   }
+   .btnCl .round {
+   background-color: #ff7f00;
+   }
+   .btnTop a {
+   text-decoration: none;
+   -moz-border-radius: 30px;
+   -webkit-border-radius: 30px;
+   border-radius: 30px;
+   padding: 12px 53px 12px 23px;
+   color: #fff;
+   text-transform: uppercase;
+   font-family: sans-serif;
+   font-weight: bold;
+   position: relative;
+   -moz-transition: all 0.3s;
+   -o-transition: all 0.3s;
+   -webkit-transition: all 0.3s;
+   transition: all 0.3s;
+   display: inline-block;
+   }
+   .btnTop a span {
+   position: relative;
+   z-index: 3;
+   }
+   .btnTop a .round {
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+   width: 38px;
+   height: 38px;
+   position: absolute;
+   right: 3px;
+   top: 3px;
+   -moz-transition: all 0.3s ease-out;
+   -o-transition: all 0.3s ease-out;
+   -webkit-transition: all 0.3s ease-out;
+   transition: all 0.3s ease-out;
+   z-index: 2;
+   }
+   .btnTop a .round i {
+   position: absolute;
+   top: 50%;
+   margin-top: -6px;
+   left: 50%;
+   margin-left: -4px;
+   -moz-transition: all 0.3s;
+   -o-transition: all 0.3s;
+   -webkit-transition: all 0.3s;
+   transition: all 0.3s;
+   }
+   .btnTop a:hover {
+   padding-left: 48px;
+   padding-right: 28px;
+   color: #fff;
+   }
+   .btnTop a:hover .round {
+   width: calc(100% - 6px);
+   -moz-border-radius: 30px;
+   -webkit-border-radius: 30px;
+   border-radius: 30px;
+   }
+   .btnTop a:hover .round i {
+   left: 12%;
+   }
+   .formItem {
+   margin: 10px 0;
+   }
+   .btnTop:last-child {
+   margin-top: 20px;
+   }
+   .rformItem {
+   border: 1px solid;
+   padding: 10px;
+   margin-bottom: 10px;
+   }
+   .page-id-13525 .entry-title {
+    font-variant: small-caps;
+    color: #000 !important;
+    font-size: 44px;
+}
+.headline_color {
+    opacity: 0.7;
+}
+.middle_content {
+    padding: 0;
+}
+.btnTop div {
+    text-align: center !important;
+}
+.formItemBs {
+    width: 98.5%;
+}
+   @media only screen and (max-width: 520px) {
+	   .formItemBs {
+    width: 100%;
+}
+   .feedback-form {
+   width: 100%;
+   }
+   .content_wrap.fullwidth {
+    width: 100%;
+    padding: 10px;
+}
+.content_wrap.fullwidth {
+    width: 100%;
+    padding: 10px;
+}
+
+.feedback-form {
+    margin-top: 0;
+    padding: 5px;
+}
+
+.feedback-form h1 {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.feedback-form p {
+    font-size: 12px !important;
+    line-height: 18px !important;
+	text-align: left;
+}
+.feedback-form textarea {
+    max-height: 35px;
+    padding: 5px;
+}
+.feedback-form h2 {
+    margin: 0;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 5px;
+}
+
+.formItemB .formItem {
+    width: 100% !important;
+    margin: 5px 0;
+}
+
+input[type=radio]:checked {
+}
+
+.formItemBs .formItem, .formItemBs .rformItem, .formItemBs .tFormItem {
+    margin: 0 !important;
+}
+
+input[type=radio] {
+    margin-right: 2px !important;
+}
+
+.addres-footer ul li {
+    font-size: 12px !important;
+    line-height: 18px !important;
+}
+
+.addres-footer ul {
+    padding-top: 5px !important;
+}
+
+.btnTop {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.btnTop a {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+.btnTop a .round {
+    width: 25px;
+    height: 25px;
+    top: 10px;
+    right: 10px;
+    font-size: 12px;
+}
+   .tFormItem {
+   width: 100%;
+   }
+   .formItem>p {
+   line-height: 40px;
+   }
+   }
+   .g-recaptcha,.g-recaptcha div {
+    text-align: center;
+    margin: 10px auto;
+    width: 100%;
+}
+</style>
+   <script src='https://www.google.com/recaptcha/api.js'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+ <script type="text/javascript">
+      
+      'use strict';
+      var form = $('.contact__form'),
+        message = $('.contact__msg'),
+        form_data;
+      // Success function
+      function done_func(response) {
+        message.fadeIn()
+        message.html(response);
+        setTimeout(function() {
+          message.fadeOut();
+        }, 5000);
+        grecaptcha.reset();
+        //form.find('input:not([type="submit"]), textarea').val('');
+      }
+      // fail function
+      function fail_func(data) {
+        message.fadeIn()
+        message.html(data.responseText);
+        setTimeout(function() {
+          message.fadeOut(5000);
+        }, 5000);
+      }
+      form.submit(function(e) {
+        e.preventDefault();
+        form_data = $(this).serialize();
+        $.ajax({
+          type: 'POST',
+          url: form.attr('action'),
+          data: form_data
+        }).done(done_func).fail(fail_func);
+      });
+    </script>{"id":13525,"date":"2019-04-24T07:40:47","date_gmt":"2019-04-24T07:40:47","guid":{"rendered":"https:\/\/www.namasteindiatrip.com\/?page_id=13525"},"modified":"2022-03-05T06:32:08","modified_gmt":"2022-03-05T06:32:08","slug":"feedback-form","status":"publish","type":"page","link":"https:\/\/www.namasteindiatrip.com\/feedback-form","title":{"rendered":"Feedback Form &#8211; Namaste India Trip"},"content":{"rendered":"<style type=\"text\/css\"><\/style>\n","protected":false},"excerpt":{"rendered":"","protected":false},"author":5,"featured_media":0,"parent":0,"menu_order":0,"comment_status":"closed","ping_status":"closed","template":"","meta":{"footnotes":""},"class_list":["post-13525","page","type-page","status-publish","hentry"],"yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v23.8 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Feedback Form - Namaste India Trip Pvt. Ltd<\/title>\n<meta name=\"description\" content=\"Fill our feedback form and let us know how your feel about our services and prices. Share your reviews and opinions or contact Namaste India Trip directly.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/www.namasteindiatrip.com\/feedback-form\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Feedback Form - Namaste India Trip Pvt. Ltd\" \/>\n<meta property=\"og:description\" content=\"Fill our feedback form and let us know how your feel about our services and prices. Share your reviews and opinions or contact Namaste India Trip directly.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.namasteindiatrip.com\/feedback-form\" \/>\n<meta property=\"og:site_name\" content=\"Namaste India Trip\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/NamasteIndiaTrips\/\" \/>\n<meta property=\"article:modified_time\" content=\"2022-03-05T06:32:08+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@NmasteIndiaTrip\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.namasteindiatrip.com\/feedback-form\",\"url\":\"https:\/\/www.namasteindiatrip.com\/feedback-form\",\"name\":\"Feedback Form - Namaste India Trip Pvt. Ltd\",\"isPartOf\":{\"@id\":\"https:\/\/www.namasteindiatrip.com\/#website\"},\"datePublished\":\"2019-04-24T07:40:47+00:00\",\"dateModified\":\"2022-03-05T06:32:08+00:00\",\"description\":\"Fill our feedback form and let us know how your feel about our services and prices. Share your reviews and opinions or contact Namaste India Trip directly.\",\"breadcrumb\":{\"@id\":\"https:\/\/www.namasteindiatrip.com\/feedback-form#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.namasteindiatrip.com\/feedback-form\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.namasteindiatrip.com\/feedback-form#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/www.namasteindiatrip.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Feedback Form &#8211; Namaste India Trip\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.namasteindiatrip.com\/#website\",\"url\":\"https:\/\/www.namasteindiatrip.com\/\",\"name\":\"Namaste India Trip\",\"description\":\"Best Tour Operators in India\",\"publisher\":{\"@id\":\"https:\/\/www.namasteindiatrip.com\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/www.namasteindiatrip.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/www.namasteindiatrip.com\/#organization\",\"name\":\"Namaste India Trip\",\"url\":\"https:\/\/www.namasteindiatrip.com\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/www.namasteindiatrip.com\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/www.namasteindiatrip.com\/wp-content\/uploads\/2019\/02\/namaste-india-trip-logo.png\",\"contentUrl\":\"https:\/\/www.namasteindiatrip.com\/wp-content\/uploads\/2019\/02\/namaste-india-trip-logo.png\",\"width\":300,\"height\":86,\"caption\":\"Namaste India Trip\"},\"image\":{\"@id\":\"https:\/\/www.namasteindiatrip.com\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/NamasteIndiaTrips\/\",\"https:\/\/x.com\/NmasteIndiaTrip\",\"https:\/\/www.instagram.com\/namasteindiatrip\/\",\"https:\/\/www.linkedin.com\/in\/namasteindiatrip\/\",\"https:\/\/www.youtube.com\/user\/NamasteInidaTrip\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->","yoast_head_json":{"title":"Feedback Form - Namaste India Trip Pvt. Ltd","description":"Fill our feedback form and let us know how your feel about our services and prices. Share your reviews and opinions or contact Namaste India Trip directly.","robots":{"index":"index","follow":"follow","max-snippet":"max-snippet:-1","max-image-preview":"max-image-preview:large","max-video-preview":"max-video-preview:-1"},"canonical":"https:\/\/www.namasteindiatrip.com\/feedback-form","og_locale":"en_US","og_type":"article","og_title":"Feedback Form - Namaste India Trip Pvt. Ltd","og_description":"Fill our feedback form and let us know how your feel about our services and prices. Share your reviews and opinions or contact Namaste India Trip directly.","og_url":"https:\/\/www.namasteindiatrip.com\/feedback-form","og_site_name":"Namaste India Trip","article_publisher":"https:\/\/www.facebook.com\/NamasteIndiaTrips\/","article_modified_time":"2022-03-05T06:32:08+00:00","twitter_card":"summary_large_image","twitter_site":"@NmasteIndiaTrip","schema":{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/www.namasteindiatrip.com\/feedback-form","url":"https:\/\/www.namasteindiatrip.com\/feedback-form","name":"Feedback Form - Namaste India Trip Pvt. Ltd","isPartOf":{"@id":"https:\/\/www.namasteindiatrip.com\/#website"},"datePublished":"2019-04-24T07:40:47+00:00","dateModified":"2022-03-05T06:32:08+00:00","description":"Fill our feedback form and let us know how your feel about our services and prices. Share your reviews and opinions or contact Namaste India Trip directly.","breadcrumb":{"@id":"https:\/\/www.namasteindiatrip.com\/feedback-form#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/www.namasteindiatrip.com\/feedback-form"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/www.namasteindiatrip.com\/feedback-form#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/www.namasteindiatrip.com\/"},{"@type":"ListItem","position":2,"name":"Feedback Form &#8211; Namaste India Trip"}]},{"@type":"WebSite","@id":"https:\/\/www.namasteindiatrip.com\/#website","url":"https:\/\/www.namasteindiatrip.com\/","name":"Namaste India Trip","description":"Best Tour Operators in India","publisher":{"@id":"https:\/\/www.namasteindiatrip.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.namasteindiatrip.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/www.namasteindiatrip.com\/#organization","name":"Namaste India Trip","url":"https:\/\/www.namasteindiatrip.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/www.namasteindiatrip.com\/#\/schema\/logo\/image\/","url":"https:\/\/www.namasteindiatrip.com\/wp-content\/uploads\/2019\/02\/namaste-india-trip-logo.png","contentUrl":"https:\/\/www.namasteindiatrip.com\/wp-content\/uploads\/2019\/02\/namaste-india-trip-logo.png","width":300,"height":86,"caption":"Namaste India Trip"},"image":{"@id":"https:\/\/www.namasteindiatrip.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/NamasteIndiaTrips\/","https:\/\/x.com\/NmasteIndiaTrip","https:\/\/www.instagram.com\/namasteindiatrip\/","https:\/\/www.linkedin.com\/in\/namasteindiatrip\/","https:\/\/www.youtube.com\/user\/NamasteInidaTrip"]}]}},"_links":{"self":[{"href":"https:\/\/www.namasteindiatrip.com\/wp-json\/wp\/v2\/pages\/13525","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https:\/\/www.namasteindiatrip.com\/wp-json\/wp\/v2\/pages"}],"about":[{"href":"https:\/\/www.namasteindiatrip.com\/wp-json\/wp\/v2\/types\/page"}],"author":[{"embeddable":true,"href":"https:\/\/www.namasteindiatrip.com\/wp-json\/wp\/v2\/users\/5"}],"replies":[{"embeddable":true,"href":"https:\/\/www.namasteindiatrip.com\/wp-json\/wp\/v2\/comments?post=13525"}],"version-history":[{"count":15,"href":"https:\/\/www.namasteindiatrip.com\/wp-json\/wp\/v2\/pages\/13525\/revisions"}],"predecessor-version":[{"id":25359,"href":"https:\/\/www.namasteindiatrip.com\/wp-json\/wp\/v2\/pages\/13525\/revisions\/25359"}],"wp:attachment":[{"href":"https:\/\/www.namasteindiatrip.com\/wp-json\/wp\/v2\/media?parent=13525"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}

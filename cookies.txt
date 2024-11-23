@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+curlytales.com	TRUE	/	FALSE	1999999999	AWSALBTG	MAzapPRvfrEin1rNGdAnEB4UaVFyqFNgfYgrjWTnz1xFcrHdI1A0oJnJguZodvE+G0IdAlUEG3UIZM2FS8A3oB8XbIBRWyboGIljqbuB/8txbqKNPA5D2GKsPK/wPyKrVMfXWXiQUgWl1X/vTWElp9IxYmPcnuUmiHPYL0Lmd3wj
+curlytales.com	TRUE	/	FALSE	1999999999	AWSALBTGCORS	MAzapPRvfrEin1rNGdAnEB4UaVFyqFNgfYgrjWTnz1xFcrHdI1A0oJnJguZodvE+G0IdAlUEG3UIZM2FS8A3oB8XbIBRWyboGIljqbuB/8txbqKNPA5D2GKsPK/wPyKrVMfXWXiQUgWl1X/vTWElp9IxYmPcnuUmiHPYL0Lmd3wj
+curlytales.com	TRUE	/	FALSE	1999999999	AWSALB	5gCkpnwBEd2rvctGLKhk3pDjgFUcdETaFdFZ8vG9AkFun8ngewfHk9XpCnl9Ul+sENal7sHztYnSCJd0jhNQg5qY9Ix2WyLFU6k/GgsvGyhvSVEO/s6FTP3zeqUk
+curlytales.com	TRUE	/	FALSE	1999999999	AWSALBCORS	5gCkpnwBEd2rvctGLKhk3pDjgFUcdETaFdFZ8vG9AkFun8ngewfHk9XpCnl9Ul+sENal7sHztYnSCJd0jhNQg5qY9Ix2WyLFU6k/GgsvGyhvSVEO/s6FTP3zeqUk
+curlytales.com	TRUE	/	FALSE	1999999999	SameSite	None
+
